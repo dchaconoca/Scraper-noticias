@@ -10,5 +10,5 @@ También muestra un análisis con *Pandas* y *Seaborn* para determinar en qué p
 
 - *BeautifulSoup*
 - *Pandas*
-- *Seaborn*
+- *Altair*
   
